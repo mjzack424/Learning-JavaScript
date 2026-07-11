@@ -6,4 +6,4 @@ function PrintText(text) {
 }
 
 PrintText("Hello, World!");
-PrintText(123); clea
+PrintText(123);
